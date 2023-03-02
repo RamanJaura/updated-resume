@@ -1,0 +1,14 @@
+body
+{ background-color: #e0f6f6;
+}
+H1,H3
+{
+    COLOR: SEAGREEN;
+}
+HR
+{ border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+   border-width: 5px;
+   width: 100px;
+}
